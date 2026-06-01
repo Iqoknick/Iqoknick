@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Iqoknick
 - 👀 I’m interested in creating UI
 - 🌱 I’m currently learning Sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jamesjavier000.03@gmail.com
+- 📫 How to reach me javier.james.subong@gmail.com
   
 - ⚡ Fun fact: happy friend
 
