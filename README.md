@@ -1,18 +1,19 @@
 # Hi, I'm Javier 👋
 
-## ⚙️ Computer Engineering | Industrial Automation | Embedded Systems | IoT Developer
+## ⚙️ Computer Engineer | Industrial Automation | Embedded Systems | IoT Developer
 
-I am a Computer Engineering student focused on building **industrial automation systems, embedded solutions, and IoT-based hardware projects**. I enjoy bridging hardware and software to create real-world automation systems.
+I am a Computer Engineering graduate specializing in **Industrial Automation, Embedded Systems, and IoT solutions**. I focus on designing and developing hardware-driven systems that integrate software, electronics, and automation technologies to solve real-world industrial problems.
 
 ---
 
-## 🔧 What I Do
+## 🔧 Technical Skills
 
-* ⚡ Embedded Systems Development (ESP32 / ESP32-S3)
+* ⚡ Embedded Systems (ESP32 / ESP32-S3)
 * 🔌 Industrial Automation & Control Systems
-* 📡 IoT Integration using Firebase
+* 📡 IoT Development (Firebase Integration)
 * 🧠 Circuit Design & Simulation (Proteus)
-* 🏗️ Basic Mechanical & System Design (AutoCAD / SketchUp)
+* 🏗️ Basic Mechanical/System Design (AutoCAD / SketchUp)
+* 🔧 Motor Control (SSRs, Contactors, Relays)
 
 ---
 
@@ -20,32 +21,29 @@ I am a Computer Engineering student focused on building **industrial automation 
 
 ### 🐔 IPOTech – Integrated Poultry Optimization Technology
 
-An automated system for organic fertilizer production.
+An automated system designed for organic fertilizer production.
 
-**My Role:**
+**Responsibilities:**
 
-* Hardware system design and simulation
-* Embedded programming using ESP32/ESP32-S3
-* Control of motors, heaters, grinders via SSRs and contactors
-* IoT monitoring with Firebase
-* Android app integration for remote control and monitoring
-
----
-
-## 📚 Currently Learning
-
-* PLC Programming
-* Industrial Control Systems
-* SCADA Basics
-* Advanced Embedded Systems
+* Designed and simulated hardware systems using Proteus
+* Developed embedded control logic using ESP32 / ESP32-S3
+* Controlled industrial components such as motors, heaters, and grinders
+* Implemented IoT monitoring system using Firebase
+* Developed Android-based remote monitoring and control interface
 
 ---
 
-## 📫 Contact Me
+## 🎯 Career Objective
+
+Seeking opportunities in **Industrial Automation, Hardware Engineering, or Embedded Systems Development** where I can apply my skills in control systems, electronics, and IoT technologies.
+
+---
+
+## 📫 Contact
 
 * 📧 Email: [javier.james.subong@gmail.com](mailto:javier.james.subong@gmail.com)
-* 💼 Open for internships and engineering opportunities
+* 💼 Open for job opportunities and technical engineering roles
 
 ---
 
-⚡ "Turning ideas into automated systems through hardware and code."
+⚡ “Engineering real-world automation through embedded systems and intelligent design.”
